@@ -1,0 +1,1 @@
+A server client protocol based on hand shaking mechanism was designed to mimick the data aquisition from Arduino into the Server. The data stored in the server using a buffer was then transferred to the client's buffer for visualising data stream.
